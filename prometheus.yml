@@ -32,4 +32,4 @@ scrape_configs:
    
     static_configs:
       - targets: ["192.168.1.6:9100"]
-      - targets: ["192.168.1.15:9100"]    
+      - targets: ["10.0.0.1:9100"]    
